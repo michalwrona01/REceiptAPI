@@ -1,5 +1,5 @@
 
-# [ReceiptAPI](https://receipt-api-public.azurewebsites.net)
+# [ReceiptAPI](https://receipt-api-public.azurewebsites.net) (In the process of migrating to new servers)
 
 REST API for extracting data from receipts and save to the database
 
