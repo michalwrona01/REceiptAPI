@@ -1,16 +1,14 @@
 version: "3.3"
 
 services:
-  web:
+  receiptapi_web:
     build: .
     volumes:
       - .:/code
     expose:
-      - "8000"
-  nginx:
-    restart: always
-    build: ./nginx
-    ports:
-      - "80:80"
-    depends_on:
-      - web
+      - "8001"
+    networks:
+      - nginx_network
+networks:
+  nginx_network:
+    external: true
