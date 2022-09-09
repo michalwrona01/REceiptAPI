@@ -1,0 +1,14 @@
+version: "3.3"
+
+services:
+  receiptapi_web:
+    build: .
+    volumes:
+      - .:/code
+    expose:
+      - "8001"
+    networks:
+      - nginx_network
+networks:
+  nginx_network:
+    external: true
