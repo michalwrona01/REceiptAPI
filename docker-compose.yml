@@ -6,7 +6,7 @@ services:
     volumes:
       - .:/code
     expose:
-      - 8001
+      - 8000
   nginx:
     build: ./nginx
     ports:
