@@ -17,7 +17,7 @@ REST API for extracting data from receipts and save to the database
 
 ## Documentation
 
-[Documentation](https://receipt-api-public.azurewebsites.net/docs)
+[Documentation](http://receiptapi.wronamichal.pl/docs)
 
 
 ## SQL Diagram
