@@ -1,5 +1,5 @@
 
-# [ReceiptAPI](https://receiptapi.wronamichal.pl/)
+# [ReceiptAPI](https://receiptapi.michalwrona.pl/)
 
 REST API for extracting data from receipts and save to the database
 
@@ -17,7 +17,7 @@ REST API for extracting data from receipts and save to the database
 
 ## Documentation
 
-[Documentation](http://receiptapi.wronamichal.pl/docs)
+[Documentation](http://receiptapi.michalwrona.pl/docs)
 
 
 ## SQL Diagram
